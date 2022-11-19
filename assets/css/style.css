@@ -5,9 +5,10 @@
 }
 
 body {
-    background-color: #d9dcd6;
+    background-color: #d9dcd6; /* defines the background colour of the whole page */
 }
 
+/* below is the rule set for the header element */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -21,9 +22,10 @@ header h1 {
 }
 
 header h1 .seo {
-    color: #d9dcd6;
+    color: #d9dcd6; /* changes the colour of only 'seo' in the title */
 }
 
+/* below is the rule set for the navigation element */
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -32,24 +34,23 @@ header nav {
     font-size: 20px;
 }
 
-header nav ul {
-    list-style-type: none;
-}
-
-header nav ul li {
+/* below is the rule set for all links in the navigation element */
+header nav a {
     display: inline-block;
     margin-left: 25px;
 }
 
+/* below is the rule set for all links in document */
 a {
     color: #ffffff;
     text-decoration: none;
-}
+} 
 
 p {
-    font-size: 16px;
+    font-size: 16px; /* sets the font size af all text in paragraph elements */
 }
 
+/* below is the rule set for the "digital-marketing-meeting" hero image */
 .hero img {
     height: 75vh;
     width: 100vw;
@@ -57,11 +58,13 @@ p {
     position: center;
 }
 
+/* below is the rule set for all images with float-left class */
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
+/* below is the rule set for all images with the float-right class */
 .float-right {
     float: right;
     margin-left: 25px;
@@ -73,6 +76,7 @@ main {
     margin-left: 20px;
 }
 
+/* below is the rule set for all articles in main element */
 main article {
     margin-bottom: 20px;
     padding: 50px;
@@ -82,6 +86,7 @@ main article {
     color: #ffffff;
 }
 
+/* below is the rule set for all images in main element */
 main article img {
     max-height: 200px;
 }
@@ -91,6 +96,7 @@ main article h2 {
     font-size: 36px;
 }
 
+/* below is the rule set for the aside element */
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -107,17 +113,20 @@ aside article {
     color: #ffffff;
 }
 
+/* below is the rule set for all h3 headers in the aside */
 aside h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
+/* below is the rule set for all images in the aside */
 aside img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
+/* below is the rule set for the footer element */
 footer {
     padding: 30px;
     clear: both;
@@ -125,6 +134,6 @@ footer {
     text-align: center;
 }
 
-footer h2 {
-    font-size: 20px;
+footer h4 {
+    font-size: 20px; /* sets the font size for the h4 header in the footer section */
 }
