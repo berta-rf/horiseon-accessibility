@@ -101,7 +101,7 @@ Distributed under the **MIT license**. See `LICENSE.txt` for more information.
 
 Berta Romano Fernandez - bertaromanofernandez@gmail.com
 
-Project Link: [https://github.com/berta-rf/horiseon-accessibility](https://github.com/berta-rf/horiseon-accessibility)
+Project Link: [https://berta-rf.github.io/horiseon-accessibility/](https://berta-rf.github.io/horiseon-accessibility/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
