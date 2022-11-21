@@ -58,7 +58,7 @@
 
 <img src="./assets/images/horiseon-page-screenshot.png" alt="Horiseon main page"/>
 
-This is a refactor of Horiseon's codebase to improve website's accessibility and for SEO optimization. This has been done by adding accessible alternative text to all relevant images, substituting all HTML elements for semantic elements only. We also refactored the CSS stylesheet by consolidating statements and updating selectors.
+This is a refactor of Horiseon's codebase to improve website's accessibility and for SEO optimization. This has been done by adding accessible alternative text to all relevant images and substituting all HTML elements for semantic elements only. We also refactored the CSS stylesheet by consolidating statements and updating selectors.
 
 ### User Story
 
