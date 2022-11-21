@@ -91,7 +91,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- LICENSE -->
 ## License
 
-Distributed under the **MIT license**. See `LICENSE.txt` for more information.
+Distributed under the **MIT license**. See [`LICENSE`](horiseon-accessibility/LICENSE) for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
