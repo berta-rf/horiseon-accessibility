@@ -56,7 +56,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<img src="./assets/images/horiseon-page-screenshot.png" alt="Horiseon main page" width="60px" height="100px"/>
+<img src="./assets/images/horiseon-page-screenshot.png" alt="Horiseon main page"/>
+
+This is a refactor of Horiseon's codebase to improve website's accessibility and for SEO optimization. This has been done by adding accessible alternative text to all relevant images, substituting all HTML elements for semantic elements only. We also refactored the CSS stylesheet by consolidating statements and updating selectors.
 
 ### User Story
 
@@ -65,8 +67,6 @@ AS A marketing agency
 I WANT a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines
 ```
-
-This is a refactor of Horiseon's codebase to improve website's accessibility and for SEO optimization. This has been done by adding accessible alternative text to all relevant images, substituting all HTML elements for semantic elements only. We also refactored the CSS stylesheet by consolidating statements and updating selectors.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
